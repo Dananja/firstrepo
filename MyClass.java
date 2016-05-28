@@ -4,6 +4,11 @@ public class MyClass {
 		
 		System.out.println("first git hub commit");
 
-	}}
+	}
 
 
+public  String  A= "dananja";
+MyClass m = new MyClass();
+  
+
+}
