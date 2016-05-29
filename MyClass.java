@@ -9,6 +9,7 @@ public class MyClass {
 
 public  String  A= "dananja";
 MyClass m = new MyClass();
-  
+
+public  String  B= "dananja";
 
 }
